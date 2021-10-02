@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MobAppTestingServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MobAppTestingServer.war">
+      <element id="artifact" artifact-name="MobAppTestingServer:war exploded" />
+    </root>
+  </artifact>
+</component>
